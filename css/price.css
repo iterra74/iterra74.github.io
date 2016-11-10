@@ -60,7 +60,7 @@ body{
 .features li{
 	margin: 0 35px;
 	padding: 20px 15px;
-	width: 200px;
+	width: 230px;
 }
 .features li:not(:last-child){
 	border: 1px solid rgb(242, 242, 242);
