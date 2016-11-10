@@ -2867,6 +2867,7 @@ footer .row-content.buffer {
     .blog-section.list-style article figure,
     .search.list-style article figure {
         margin-bottom: 1em;
+
     }
 }
 /*----------------------------------------------------------------
@@ -4559,8 +4560,8 @@ footer .row-content.buffer {
 .blog-section.list-style article,
 .search.list-style article {
     margin-bottom: 0 !important;
-    padding: 3em 0;
-    border-bottom: 1px solid #DDD;
+    padding: 1em 0;
+    sborder-bottom: 1px solid #DDD;
 }
 
 .blog.list-style h2,
@@ -4711,6 +4712,7 @@ footer .row-content.buffer {
 .blog.masonry-style article a figure,
 .blog-section.masonry-style article a figure {
     position: relative;
+
 }
 
 .blog.masonry-style article a figure .blog-overlay,
@@ -4987,4 +4989,8 @@ footer .row-content.buffer {
         font-size: 0.9em;
         -webkit-text-size-adjust: none;
     }
+}
+
+.margin-20 {
+    margin-left: 15%;
 }
