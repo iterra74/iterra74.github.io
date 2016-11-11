@@ -702,12 +702,12 @@ nav ul.sub-menu > li:last-child > a {
 ----------------------------------------------------------------*/
 
 .widget {
-    font-size: 0.722em;
+    font-size: 0.922em;
 }
 
 .widget h4 {
     margin-top: 0;
-    color: #ccc;
+    scolor: #ccc;
 }
 
 .widget {
