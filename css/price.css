@@ -14,6 +14,7 @@ body{
 .price_card{
 	width: 300px;
 	background: rgb(255, 255, 255);
+    color: #333;
 	display: inline-table;
 	top: 0;
 }
@@ -52,8 +53,8 @@ body{
 .features{
 	list-style: none;
 	stext-align: center;
-	color: rgb(138, 138, 138);
-    font-size: 0.7em;
+	color: #333;
+    font-size: 0.9em;
 	margin: 0;
 	padding: 0;
 }

@@ -831,18 +831,34 @@ section.greyish {
 }
 
 .section-title {
-    margin-bottom: 2em;
+    
+    margin-bottom: 0.5em;
     text-align: center;
 }
 
 .section-title h3 {
     display: inline-block;
+    spadding-top: 0.1em;
+    margin-top: -0.4em;
     border-bottom: 2px solid rgba(0,0,0,0.1);
     text-transform: uppercase;
     font-size: 1.889em;
     line-height: 1.8;
 }
-
+.section-title2 {
+    
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+.section-title2 h3 {
+    display: inline-block;
+    spadding-top: 0.1em;
+    margin-top: 1em;
+    border-bottom: 2px solid rgba(0,0,0,0.1);
+    text-transform: uppercase;
+    font-size: 1.889em;
+    line-height: 1.8;
+}
 
 /*----------------------------------------------------------------
     CTA
@@ -5136,4 +5152,8 @@ footer .row-content.buffer {
 .reg {
     color: white;
     text-decoration:none;
+}
+
+.margin {
+    padding-top: 1em;
 }
